@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="17413" original="/codec.xml" source-language="en" target-language="ms" datatype="plaintext" project-id="2999" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="3766964" resname="codec_title" approved="yes">
+        <source>MX Player Codec (%1$s)</source>
+        <target state="final">Kodek Pemain MX (%1$s)</target>
+        <context-group purpose="information">
+          <context context-type="source">codec_title</context>
+        </context-group>
+        <note from="علي الكرار (fox22movie)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;</note>
+        <note from="daodlmy" priority="4">The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;</note>
+        <note from="Lenok" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Кодек MX Player (%1$s)&quot;</note>
+        <note from="Mea Masd (mode797928)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;</note>
+        <note from="Daniil Agafonof (agafondan)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек (%1$s)&quot;</note>
+        <note from="Singh20151" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX प्लेयर कोडेक (%1$s)&quot;</note>
+        <note from="ishaqkhan" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX پلئیر کوڈیک (%1$s)&quot;</note>
+        <note from="mahakal LOVE (akshaysoni21101998)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player कोडेक (%1$s)
+&quot;The current approved translation is not correct, please review my translation:
+&quot;MX Player कोडेक (%1$s)
+&quot;</note>
+        <note from="Trần Thu Thắm (thamt2960)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Bộ giải mã MX Player ( % 1 $ s)&quot;</note>
+        <note from="Riyas Shirafa (Mriyas)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="Raushan5464" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="J.C. Brewster (jcbrewster4)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s%1$s)&quot;</note>
+        <note from="Mardi Ansyah (mardiansyah578)" priority="4">Good</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot; Кодек MX Player для %1$s процесорів) Elenabergen680@gmail. com&quot;The current approved translation is not correct, please review my translation:
+&quot; Кодек MX Player для %1$s процесорів) Elenabergen680@gmail. com&quot;</note>
+        <note from="Imtiyaz Khan (imtiyaz.18)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;एम एक्स प्लेयर कोडेक (%1$s)
+&quot;</note>
+        <note from="reza asmaeli (reza8121032900)" priority="4">The current approved translation is correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="reza asmaeli (reza8121032900)" priority="4">codac</note>
+        <note from="reza asmaeli (reza8121032900)" priority="4">The current approved translation is correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="liam123" priority="4">i am trying to open up this link http://crowdin.net/project/video-player/invite</note>
+        <note from="Rohann" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="Rohann" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player कोडेक (%1$s)
+&quot;Son</note>
+        <note from="Aaaa Aaa (sillver.killer4849)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек (%1$s)&quot;</note>
+        <note from="Aaaa Aaa (sillver.killer4849)" priority="4">😎</note>
+        <note from="Cliff Anakotta (cliffanakotta)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Speler-codec (%1$s)&quot;</note>
+        <note from="Сергей Фрич (sergeyfrich)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Кодек MX Player (%1$s)&quot;</note>
+        <note from="Сергей Фрич (sergeyfrich)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Кодек MX Player (%1$s)&quot;</note>
+        <note from="Сергей Фрич (sergeyfrich)" priority="4">Мой друг</note>
+        <note from="Sədi Məmmədov (sedi9816)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player kodeki (%1$s)&quot;</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;</note>
+        <note from="REMOVED_USER" priority="4">Melayu</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s) BAHASAMELAYU. SRT&quot;</note>
+        <note from="Christai" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;cpu</note>
+        <note from="Christai" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player 解碼包 (%1$s)&quot;</note>
+        <note from="Christai" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX 播放器编解码器（%1$s）&quot;</note>
+        <note from="Phantom (Ph4n7om)" priority="4">@Christai Please don't submit a duplicate translation.</note>
+        <note from="pranit shetty (pranit.shetty07)" priority="4">Yes</note>
+        <note from="REMOVED_USER" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Códec del Reproductor MX (%1$s)%1$s&quot;</note>
+        <note from="Rachid Zino (z0664467672)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;</note>
+        <note from="Jhon Robert Tobing (jrtobing123)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;'Codec' MX Player (%1$s)&quot;</note>
+        <note from="Sohail Haydar (sohail.haydar8741)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;'Codec' MX Player (%1$s)&quot;</note>
+        <note from="trohimenko.maksi" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек (%1$s)&quot;</note>
+        <note from="Ali-jo" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="robinson castro castro (robinho.msb)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Codec MX Player para CPUs %1$s)&quot;</note>
+        <note from="Mohd Amirul Shafiq (acai_58)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;melayu</note>
+        <note from="Mohd Amirul Shafiq (acai_58)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek Pemain MX (%1$s)&quot;</note>
+        <note from="Diii Bé (diixinhhdepp18)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="тох пр (gfghh80)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек для ЦП типа %1$s)&quot;</note>
+        <note from="ebony80" priority="4">The current approved translation is not correct, please review my translation:
+&quot;ترميز MX Player (%1$s)&quot;</note>
+        <note from="s.man.ru" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="s.man.ru" priority="4">👋</note>
+        <note from="Minendra Dc (minendrad)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player कोडेक (%1$s)
+&quot;</note>
+        <note from="Andrey Grishkin (abdivladimirovich)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек для ЦП типа %1$s)&quot;</note>
+        <note from="Alex Hedgehog (ejforever32)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="Aią (boyfirst292)" priority="4">LinLin</note>
+        <note from="Aią (boyfirst292)" priority="4">ကြားကြား</note>
+        <note from="Aią (boyfirst292)" priority="4">မိန်းကလေး</note>
+        <note from="Aią (boyfirst292)" priority="4">!)/(+!</note>
+        <note from="Aią (boyfirst292)" priority="4">+&amp;$/</note>
+        <note from="Aią (boyfirst292)" priority="4">ညု</note>
+        <note from="Aią (boyfirst292)" priority="4">ညု</note>
+        <note from="G. Sambath (sambathg07)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player குறியாக்கி (%1$s)&quot;sambath1</note>
+        <note from="SAMATH RATTANAK (samathrattanak)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="SAMATH RATTANAK (samathrattanak)" priority="4">@sambathg07</note>
+        <note from="Арсений Петрович (arseniipetrovich123)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player кодек для ЦП типа %1$s)&quot;</note>
+        <note from="Арсений Петрович (arseniipetrovich123)" priority="4">&quot;MX Player кодек для ЦП</note>
+        <note from="Symrak1488" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Кодек MX Player (%1$s)&quot;</note>
+        <note from="Saeed Taherzadeh (taherzadehsaeed)" priority="4">@arseniipetrovich123</note>
+        <note from="Agha Jaan (agha84780)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX پلئیر کوڈیک (%1$s)%1$s&quot;</note>
+        <note from="mujahidalyani" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX پلئیر کوڈیک (%1$s)&quot;</note>
+        <note from="Eşkiler Mehmet Yusuf (sananearki)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="Eşkiler Mehmet Yusuf (sananearki)" priority="4">Yuuf</note>
+        <note from="Eşkiler Mehmet Yusuf (sananearki)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="Eşkiler Mehmet Yusuf (sananearki)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;MX Player ตัวแปลงโค๊ด (%1$s)&quot;</note>
+        <note from="Eugenio &quot;Ryo567&quot; Martínez Seguín (Ryo567)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Códec de MX Player (%1$s)&quot;</note>
+        <note from="Ridzuan Jasmi (ridzuan901023)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;Kodek MX Player untuk %1$s CPU)&quot;</note>
+        <note from="Milad19s (I-am-the-best-translator-of-Persian-language)" priority="4">The current approved translation is not correct, please review my translation:
+&quot;کدک پخش کننده ام‌ایکس (%1$s)&quot;</note>
+        <note from="Andre Meléndez (mandremelendez80)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;Códec del Reproductor MX (%1$s)&quot;mamego</note>
+        <note from="Andre Meléndez (mandremelendez80)" priority="4">Hi</note>
+        <note from="Yefri Dewi (Mamposkau)" priority="4">@agafondan oke</note>
+        <note from="Zaid Afeel (zaidafeel3422)" priority="4">@kilie6142</note>
+        <note from="Zaid Afeel (zaidafeel3422)" priority="4">Hi</note>
+        <note from="Zaid Afeel (zaidafeel3422)" priority="4">@anantobss</note>
+        <note from="Zaid Afeel (zaidafeel3422)" priority="4">Hi</note>
+        <note from="ᱨᱤᱢᱤᱞ-ᱯᱨᱚᱠᱟᱥ (Cloud-Prakash)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player ᱠᱚᱰᱮᱠ (%1$s)&quot;</note>
+        <note from="Prasanta-Hembram (Rocky_734)" priority="4">@Cloud-Prakash i have fixed it</note>
+        <note from="Milad19s (I-am-the-best-translator-of-Persian-language)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;کدک پخش کننده ام ایکس (%1$s)&quot;</note>
+        <note from="OFFICIAL FTM (fizie.tiongmas)" priority="4">Ok</note>
+        <note from="Puy Namyun (chinnahot2528)" priority="4">@mxvideoplayer</note>
+        <note from="thug life (thugz3636)" priority="4">Ok</note>
+        <note from="Bdx46Nkl (Bdx46)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)
+&quot;</note>
+        <note from="Naing Lin Aung (nlinaung140)" priority="4">nainglinaungnainglinaungnainglinaungnaing</note>
+        <note from="Miguel Patiño Gradilla (patinomiguelangel7561)" priority="4">Bien</note>
+        <note from="ธนกร โพธิ์สว่าง (thanakon9009)" priority="4">thanakon9009@gmail.com</note>
+        <note from="Sain Islam (sainislam9)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player কোডেক (%1$s)&quot;</note>
+        <note from="amirabass" priority="4">@magasgoon</note>
+        <note from="Игорь Игоревич (elenabergen680)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;Кодек MX Player (%1$s)%1$s&quot;</note>
+        <note from="Игорь Игоревич (elenabergen680)" priority="4">@arahanfayaz</note>
+        <note from="Игорь Игоревич (elenabergen680)" priority="4">@azmierul19</note>
+        <note from="Игорь Игоревич (elenabergen680)" priority="4">Mii1970@yahoo.com</note>
+        <note from="Rinku223" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player ਕੋਡਕ (%1$s)%1$s&quot;</note>
+        <note from="REMOVED_USER" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;用于 %1$s CPU 的 MX 播放器编解码器)&quot;</note>
+        <note from="REMOVED_USER" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player Codec (%1$s)&quot;</note>
+        <note from="REMOVED_USER" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player 解碼包 (%1$s)&quot;</note>
+        <note from="Александр Зимин (ayjay199538)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;MX Player кодек&quot;</note>
+        <note from="Александр Зимин (ayjay199538)" priority="4">Утверждённый на данный момент перевод неверен, пожалуйста рассмотрите мой перевод:
+&quot;MX Player кодек3&quot;</note>
+        <note from="Mr Ridzuan Aziz (rengoku9203)" priority="4">Mohd Ridzuan (onigiri5721)</note>
+        <note from="Erick De Jesus Sanchez (amorfo77)" priority="4">The currently approved translation is not correct, please review my translation:
+&quot;Codec del Reproductor MX (%1$s)&quot;</note>
+        <note from="Erick De Jesus Sanchez (amorfo77)" priority="4">MYLF - Big Ass Mylf (Rose Monroe)</note>
+        <note from="Erick De Jesus Sanchez (amorfo77)" priority="4">MYLF - Big Ass Mylf (Rose Monroe)</note>
+        <note from="Erick De Jesus Sanchez (amorfo77)" priority="4">La traducción actual no es correcta. Por favor, echa un vistazo a mi sugerencia de traducción:
+«MX Player kodek (%1$s)»</note>
+        <note from="Erick De Jesus Sanchez (amorfo77)" priority="4">MYLF - Big Ass Mylf (Rose Monroe)</note>
+        <note from="Javi Ortiz Puig (jaortizpuig)" priority="4">@mxvideoplayer</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
